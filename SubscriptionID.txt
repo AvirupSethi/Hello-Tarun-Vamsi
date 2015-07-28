@@ -1,0 +1,23 @@
+Plan ID		Plan Name	Subscription Peroid				Subscription Parameters
+	
+1		Hostway_SP  	1 months 3 months
+
+3		Dns Hosting	1 months
+
+4		windows shared hosting	1 months
+
+5 		Rational testing Plan	1 months 2 months 4 months 1 Year
+
+6 		Hosting Plan Test1	1 months 2 months
+
+7		wordpressw_sp		1 months 
+
+8 		osticketw_sp		1 months
+
+9		Mantisw_sp		1 months
+
+10		SiteLock-scan-demo-sp	1 months
+
+11		SiteLock-scan-demo-sp-2	1 months
+
+
